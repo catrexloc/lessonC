@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.AssemblyInfo.cs
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\bin\Debug\net6.0\Big_O_notation.exe
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\bin\Debug\net6.0\Big_O_notation.deps.json
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\bin\Debug\net6.0\Big_O_notation.runtimeconfig.json
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\bin\Debug\net6.0\Big_O_notation.dll
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\bin\Debug\net6.0\Big_O_notation.pdb
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.dll
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\refint\Big_O_notation.dll
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.pdb
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\Big_O_notation.genruntimeconfig.cache
+C:\Users\Админ\Desktop\lesson_massive\lesson3\Big_O_notation\obj\Debug\net6.0\ref\Big_O_notation.dll

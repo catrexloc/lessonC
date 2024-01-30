@@ -1,0 +1,15 @@
+C:\Users\Админ\Desktop\lesson_massive\Recurs\bin\Debug\net6.0\Recurs.exe
+C:\Users\Админ\Desktop\lesson_massive\Recurs\bin\Debug\net6.0\Recurs.deps.json
+C:\Users\Админ\Desktop\lesson_massive\Recurs\bin\Debug\net6.0\Recurs.runtimeconfig.json
+C:\Users\Админ\Desktop\lesson_massive\Recurs\bin\Debug\net6.0\Recurs.dll
+C:\Users\Админ\Desktop\lesson_massive\Recurs\bin\Debug\net6.0\Recurs.pdb
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.AssemblyInfo.cs
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.dll
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\refint\Recurs.dll
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.pdb
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\Recurs.genruntimeconfig.cache
+C:\Users\Админ\Desktop\lesson_massive\Recurs\obj\Debug\net6.0\ref\Recurs.dll

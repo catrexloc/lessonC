@@ -14,7 +14,10 @@ int Fact(int n)
         Console.WriteLine($"Stop: {n}");
         return 1;
     }
+int i = n;
     Console.WriteLine(n);
-    return n * Fact(n - 1);
+    n = n * Fact(n - 1);
+    Console.WriteLine($"Возврат: n = {i}; fact = {n}");
+    return n;
 }
 Console.Write(Fact(5));
